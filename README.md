@@ -1,4 +1,4 @@
-<a style="background-color:#aaffff;color:#008080"> # tevirein</a>
+# tevirein
 ## tech
 - C#
 - python
