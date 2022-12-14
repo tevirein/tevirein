@@ -1,4 +1,4 @@
-# <span style="color:blue;">tevirein</span>
+# tevirein
 ## tech
 - C#
 - python
